@@ -7,7 +7,7 @@ You'll need Adobe Photoshop, Adobe Illustrator, or a compatible program to edit 
 ## Contents
 
 * `Subgroup Template.psd`: A Photoshop document you can optionally use to create a cover photo for your subgroup. Feel free to modify anything and everything, or create your own entirely!
-* `Main Group Template.ai`: A Photoshop document to make variations of the main group cover photo. Think Google Doodle, only more h4x.
+* `Main Group Template.ai`: An Illustrator document to make variations of the main group cover photo. Think Google Doodle, only more h4x.
 * `Ico.ai`: An Illustrator document with the vector of Ico, the mascot of Hackathon Hackers.
 * `Desktop Backgrounds/`: Images you can use as a centered desktop image with a solid color of your choice.
 * `Dosis Font/`: The typography used in the subgroup cover photo template.
